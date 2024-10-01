@@ -95,6 +95,12 @@ align-content:right;
 
 a{
     text-decoration:none;
+
+}
+
+#friends a:hover{
+    color: #FBCCD4;
+    transform: scale(0.5);
 }
 .box1{
     background-color:#F8EFD8;
